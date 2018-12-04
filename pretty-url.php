@@ -1,5 +1,5 @@
 <?php
-/**
+/*
  * MS-Studio Pretty URL
  * Plugin Name: MS-Studio Pretty URL
  * Plugin URI: https://github.com/ms-studio/pretty-url/
@@ -11,7 +11,7 @@
  * License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
 
-/**
+/*
 
  Usage example: 
  
@@ -22,7 +22,7 @@
  
 */
 
- /**
+ /*
  * Make URL Pretty
  *
  * INPUT:
