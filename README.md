@@ -1,6 +1,6 @@
 # MS-Studio Prettify URL
 
-Helper plugin for ACF, that prettifies URL output (make it human-readable).
+Helper plugin for [ACF](https://www.advancedcustomfields.com/resources/link/), that prettifies URL output (make it human-readable).
 
 * Removes http:// or https://
 * Removes www.
