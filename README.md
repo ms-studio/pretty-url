@@ -9,7 +9,7 @@ Helper plugin for ACF, that prettifies URL output (make it human-readable).
 Rationale:
 
 * You capture an URL with the ACF URL field.
-* On the website, you build the link using the ACF field content, but you also need to display it.
+* On the website, you build the link using the ACF field content, but you also need to display it. It's much nicer to display it as "example.com", without the http or www part.
 
 Typical usage example:
 
