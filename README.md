@@ -1,4 +1,4 @@
-# MS-Studio Prettify URL
+# MS-Studio Pretty URL
 
 Helper plugin for [ACF](https://www.advancedcustomfields.com/resources/link/), that prettifies URL output (make it human-readable).
 
